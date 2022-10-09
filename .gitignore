@@ -9,7 +9,6 @@ npm-debug.*
 *.orig.*
 web-build/
 web-report/
-.env*
 yarn-error.log
 src/Firebase/CorrectionScripts/*.json
 coverage/
