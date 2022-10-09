@@ -1,0 +1,26 @@
+node_modules/**/*
+.expo/*
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
+web-report/
+.env*
+yarn-error.log
+src/Firebase/CorrectionScripts/*.json
+coverage/
+tests/__snapshots__
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions
+
+# macOS
+.DS_Store
